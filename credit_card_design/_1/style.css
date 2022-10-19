@@ -56,3 +56,13 @@ h6{
     font-size: 12px;
     font-weight: 400;
 }
+
+h5.number{
+    margin-top: 4px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+h5.name{
+    margin-top: 20px;
+}
