@@ -46,3 +46,13 @@ h5{
     font-size: 16px;
     font-weight: 400;
 }
+
+.chip{
+    width: 60px;
+}
+
+h6{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+}
